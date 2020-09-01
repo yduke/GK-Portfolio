@@ -1,0 +1,585 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: GK Portfolio\n"
+"POT-Creation-Date: 2020-09-01 16:30+0800\n"
+"PO-Revision-Date: 2020-09-01 16:30+0800\n"
+"Last-Translator: Duke Yin <duke@dukeyin.com>\n"
+"Language-Team: Duke Yin <duke@dukeyin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:20
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#: author.php:17
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments-template.php:28
+msgid "Pingback:"
+msgstr ""
+
+#: comments-template.php:30 comments-template.php:65 content-meta.php:43
+#: page.php:32
+msgid "Edit"
+msgstr ""
+
+#: comments-template.php:36
+msgid "Post author"
+msgstr ""
+
+#: comments-template.php:50
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments-template.php:56
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "2 Comments"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#: content-archive.php:93 content-gallery.php:17 content-gallery.php:21
+#: content-image.php:17 content-image.php:21 content-link.php:15
+#: content-quote.php:15 content-video.php:21 content-video.php:26
+#: content-video.php:29 content.php:18 content.php:22
+msgid "Read more"
+msgstr ""
+
+#: content-archive.php:96 content-gallery.php:24 content-image.php:24
+#: content-link.php:18 content-quote.php:18 content-video.php:33 content.php:25
+#: image.php:32 page.php:28
+msgid "Pages:"
+msgstr ""
+
+#: content-meta.php:35
+msgid ", "
+msgstr ""
+
+#: content-meta.php:37
+msgid "Posted in "
+msgstr ""
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:27
+msgid "2018 All Rights Reserved "
+msgstr ""
+
+#: footer.php:27 footer.php:28
+msgid "http://www.dukeyin.com/"
+msgstr ""
+
+#: footer.php:28
+msgid "Created by  "
+msgstr ""
+
+#: functions.php:94
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:255
+msgid "Bottom widget area"
+msgstr ""
+
+#: functions.php:257
+msgid "Appears at the bottom of the website."
+msgstr ""
+
+#: functions.php:289
+msgid "Older posts"
+msgstr ""
+
+#: functions.php:292
+msgid "Page"
+msgstr ""
+
+#: functions.php:292
+msgid "of"
+msgstr ""
+
+#: functions.php:295
+msgid "Newer posts"
+msgstr ""
+
+#: functions.php:390
+msgid "Share:"
+msgstr ""
+
+#: functions.php:426
+msgid "Portfolio image"
+msgstr ""
+
+#: header.php:22
+msgid ""
+"You're using an unsupported version of Internet Explorer. Please upgrade "
+"your browser for the best user experience on our site. Thank you."
+msgstr ""
+
+#: header.php:39 header.php:40
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: header.php:40
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Image"
+msgstr ""
+
+#: image.php:38
+msgid "Next Image <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:41
+msgid "&uarr; Return to post"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: theme-customizer.php:26
+msgid "Font options"
+msgstr ""
+
+#: theme-customizer.php:34
+msgid "Layout & Features"
+msgstr ""
+
+#: theme-customizer.php:42
+msgid "Effects"
+msgstr ""
+
+#: theme-customizer.php:50
+msgid "Post display"
+msgstr ""
+
+#: theme-customizer.php:58
+msgid "Advanced settings"
+msgstr ""
+
+#: theme-customizer.php:59
+msgid ""
+"If you change the portfolio image dimensions please remember to regenerate "
+"all thumbnails i.e. using the Regenerate Thumbnails plugin."
+msgstr ""
+
+#: theme-customizer.php:481
+msgid "Logo image"
+msgstr ""
+
+#: theme-customizer.php:491
+msgid "Adjust header size to the logo image"
+msgstr ""
+
+#: theme-customizer.php:503
+msgid "Primary Color"
+msgstr ""
+
+#: theme-customizer.php:514
+msgid "Header Font"
+msgstr ""
+
+#: theme-customizer.php:535
+msgid "Google Font URL for Header"
+msgstr ""
+
+#: theme-customizer.php:545
+msgid "Body Font"
+msgstr ""
+
+#: theme-customizer.php:566
+msgid "Google Font URL for the Body"
+msgstr ""
+
+#: theme-customizer.php:576
+msgid "Posts per page"
+msgstr ""
+
+#: theme-customizer.php:585
+msgid "Amount of article columns"
+msgstr ""
+
+#: theme-customizer.php:588
+msgid "4 Column"
+msgstr ""
+
+#: theme-customizer.php:589
+msgid "3 Columns"
+msgstr ""
+
+#: theme-customizer.php:590
+msgid "2 Columns"
+msgstr ""
+
+#: theme-customizer.php:599
+msgid "Date format"
+msgstr ""
+
+#: theme-customizer.php:602
+msgid "Default theme format"
+msgstr ""
+
+#: theme-customizer.php:603
+msgid "WordPress Date Format"
+msgstr ""
+
+#: theme-customizer.php:612
+msgid "Content width"
+msgstr ""
+
+#: theme-customizer.php:621
+msgid "Portfolio view width"
+msgstr ""
+
+#: theme-customizer.php:630
+msgid "Enable word-break"
+msgstr ""
+
+#: theme-customizer.php:639
+msgid "Full-width images"
+msgstr ""
+
+#: theme-customizer.php:648
+msgid "Show excerpts on portfolio"
+msgstr ""
+
+#: theme-customizer.php:657
+msgid "Show post information on portfolio"
+msgstr ""
+
+#: theme-customizer.php:666
+msgid "Whole overlay clickable in portfolio"
+msgstr ""
+
+#: theme-customizer.php:675
+msgid "Show search at top bar"
+msgstr ""
+
+#: theme-customizer.php:684
+msgid "Show social icons at top bar"
+msgstr ""
+
+#: theme-customizer.php:693
+msgid "Show featured image"
+msgstr ""
+
+#: theme-customizer.php:702
+msgid "Show title"
+msgstr ""
+
+#: theme-customizer.php:711
+msgid "Show date"
+msgstr ""
+
+#: theme-customizer.php:720
+msgid "Show post navigation"
+msgstr ""
+
+#: theme-customizer.php:729
+msgid "Navigate between posts in the same category"
+msgstr ""
+
+#: theme-customizer.php:738
+msgid "Show category"
+msgstr ""
+
+#: theme-customizer.php:747
+msgid "Show tags"
+msgstr ""
+
+#: theme-customizer.php:756
+msgid "Show social icons"
+msgstr ""
+
+#: theme-customizer.php:765
+msgid "Show author"
+msgstr ""
+
+#: theme-customizer.php:774
+msgid "Use dedicated portfolio image size"
+msgstr ""
+
+#: theme-customizer.php:783
+msgid "Portfolio image width (px)"
+msgstr ""
+
+#: theme-customizer.php:793
+msgid "Portfolio image height (px)"
+msgstr ""
+
+#: theme-customizer.php:803
+msgid "Use hard crop mode"
+msgstr ""
+
+#: theme-customizer.php:813
+msgid "Frontpage items animation"
+msgstr ""
+
+#: theme-customizer.php:822
+msgid "Hover effect in portfolio"
+msgstr ""
+
+#: theme-customizer.php:831
+msgid "Animation type"
+msgstr ""
+
+#: theme-customizer.php:834
+msgid "Default (flip)"
+msgstr ""
+
+#: theme-customizer.php:835
+msgid "Center flip"
+msgstr ""
+
+#: theme-customizer.php:836
+msgid "Scale bottom"
+msgstr ""
+
+#: theme-customizer.php:837
+msgid "Scale center"
+msgstr ""
+
+#: theme-customizer.php:838
+msgid "Scale top"
+msgstr ""
+
+#: theme-customizer.php:839 theme-customizer.php:871
+msgid "Opacity"
+msgstr ""
+
+#: theme-customizer.php:849
+msgid "Animation speed"
+msgstr ""
+
+#: theme-customizer.php:852
+msgid "Fast animation"
+msgstr ""
+
+#: theme-customizer.php:853
+msgid "Normal animation"
+msgstr ""
+
+#: theme-customizer.php:854
+msgid "Slow animation"
+msgstr ""
+
+#: theme-customizer.php:864
+msgid "Post preview animation type"
+msgstr ""
+
+#: theme-customizer.php:867
+msgid "Slide up"
+msgstr ""
+
+#: theme-customizer.php:868
+msgid "Slide down"
+msgstr ""
+
+#: theme-customizer.php:869
+msgid "Slide left"
+msgstr ""
+
+#: theme-customizer.php:870
+msgid "Slide right"
+msgstr ""
+
+#: theme-customizer.php:872
+msgid "Scale"
+msgstr ""
+
+#: theme-customizer.php:881
+msgid "Portfolio block height (px)"
+msgstr ""
+
+#: theme-customizer.php:890
+msgid "Portfolio block height on mobile (px)"
+msgstr ""
+
+#: theme-customizer.php:899
+msgid "Portfolio block padding"
+msgstr ""
+
+#: theme-customizer.php:908
+msgid "Portfolio block padding on mobile"
+msgstr ""
+
+#: theme-customizer.php:917
+msgid "Excerpt length"
+msgstr ""
+
+#: theme-customizer.php:926
+msgid "Filter categories"
+msgstr ""
+
+#: theme-customizer.php:935
+msgid "Select categories"
+msgstr ""
+
+#: theme-customizer.php:945
+msgid "Post information under image"
+msgstr ""
+
+#: theme-customizer.php:948
+msgid "Post tags"
+msgstr ""
+
+#: theme-customizer.php:949
+msgid "Post categories"
+msgstr ""
+
+#: theme-customizer.php:950
+msgid "Post date"
+msgstr ""
+
+#: theme-customizer.php:951
+msgid "Post title"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "GK Portfolio"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.gavick.com/wordpress-themes/portfolio,174.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"If you’re a photographer, designer or creative blogger, you know how much of "
+"an impact strong visuals can have. It’s not enough to just write about your "
+"skills, or talk about what works in design; it has to be seen to be "
+"understood. With the clean, elegant design offered by this free Portfolio "
+"WordPress theme that puts all the emphasis on your creative work, you can "
+"craft an alluring, attractive and relaxed website that echoes the qualities "
+"that you put into your writing and images. Reveal and hover animations "
+"provide a dynamic backdrop without intrusion, and the dialed-back layout "
+"keeps attention focused on your content. Provide your blog or portfolio site "
+"with the perfect foundation with Porfolio..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "GavickPro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.gavick.com"
+msgstr ""
